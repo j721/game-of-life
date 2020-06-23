@@ -1,8 +1,0 @@
-{
-  "name": "game-of-life",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/j721/game-of-life.git",
-  "author": "Julia Vu <juliadvu@gmail.com>",
-  "license": "MIT"
-}
