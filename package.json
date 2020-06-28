@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "immer": "^7.0.5",
     "react-dom": "^16.13.1"
   }
 }
